@@ -196,9 +196,9 @@ Risk Level: LOW
 
 # 👨‍💻 Author
 
-**Name:** Prathamesh Munavali
+**Name:** Shreyas Sadavarte 
 **Project:** Final Year Engineering Project
-**Branch:** Electronics & Telecommunication
+**Branch:** Computer Enggineering
 
 GitHub:
 https://github.com/escapist0411
